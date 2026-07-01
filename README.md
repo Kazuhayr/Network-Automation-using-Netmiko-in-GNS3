@@ -1,4 +1,4 @@
-# Network Automation using Netmiko in GNS3
+# Network Automation using Netmiko in GNS3 (ITT633)
 
 A Python-based network automation project that automates the configuration of Cisco routers using SSH. The project focuses on automating three essential networking services:
 
